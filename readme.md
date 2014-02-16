@@ -1,7 +1,7 @@
 #README
 
 ##About
-A hypersimple Python program to facilitate ripping MP3 audio from YouTube videos. 
+A hypersimple Python program to facilitate ripping MP3 audio from YouTube videos (and ~150+ more supported sites as per http://rg3.github.io/youtube-dl/supportedsites.html). 
 
 ##Requirements
 For this to work, you must have youtube-dl (http://youtube-dl.org) and ffmpeg installed. I'm going to provide instructions for the Mac, because that's what I and most of my friends use. 
@@ -43,3 +43,4 @@ Everything in this program is run by ripper.py, which you can use in the followi
 3. Type `python ripper.py` into terminal
 4. Answer the prompts according to your fondest hopes and desires 
 5. MP3 files should begin appearing where you want them to! 
+6. After it runs, it will REMOVE all .M4A files in the directory you ran it in (because for some reason the --add-metadata flag breaks the automatic cleaning youtube-dl is supposed to do). This is probably desired behavior, but make sure you don't have any other M4A files in the same directory because it will nuke them too! 
