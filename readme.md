@@ -1,5 +1,5 @@
 #README
-* auto-gen TOC:
+
 {:toc}
 
 
@@ -41,8 +41,8 @@ Having installed Homebrew, you can easily install ffmpeg by copy/pasting:
 ##How it works 
 Everything in this program is run by ripper.py, which you can use in the following way: 
 
-* Download it to your preferred folder / directory (where all your music will appear too!)
-* Open up terminal and navigate to the directory where ripper.py is 
-* Type `python ripper.py` into terminal
-* Answer the prompts according to your fondest hopes and desires 
-* MP3 files should begin appearing where you want them to! 
+1. Download it to your preferred folder / directory (where all your music will appear too!)
+2. Open up terminal and navigate to the directory where ripper.py is 
+3. Type `python ripper.py` into terminal
+4. Answer the prompts according to your fondest hopes and desires 
+5. MP3 files should begin appearing where you want them to! 
