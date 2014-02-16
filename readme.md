@@ -1,4 +1,7 @@
 #README
+* auto-gen TOC:
+{:toc}
+
 
 ##About
 A hypersimple Python program to facilitate ripping MP3 audio from YouTube videos. 
