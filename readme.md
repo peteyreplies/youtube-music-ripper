@@ -1,7 +1,7 @@
 #README
 
 ##About
-This is a small Python program to facilitate ripping audio from YouTube videos. 
+A hypersimple Python program to facilitate ripping MP3 audio from YouTube videos. 
 
 ##Requirements
 For this to work, you must have youtube-dl (http://youtube-dl.org) and ffmpeg installed. I'm going to provide instructions for the Mac, because that's what I and most of my friends use. 
@@ -36,10 +36,10 @@ Having installed Homebrew, you can easily install ffmpeg by copy/pasting:
 `brew install ffmpeg --devel` 
 
 ##How it works 
-Everything in this program is accomplished by ripper.py, which you can use in the following way: 
+Everything in this program is run by ripper.py, which you can use in the following way: 
 
 * Download it to your preferred folder / directory (where all your music will appear too!)
 * Open up terminal and navigate to the directory where ripper.py is 
 * Type `python ripper.py` into terminal
-* Answer the prompts as you like 
+* Answer the prompts according to your fondest hopes and desires 
 * MP3 files should begin appearing where you want them to! 
