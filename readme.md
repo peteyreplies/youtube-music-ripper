@@ -26,7 +26,7 @@ and then:
 
 `sudo chmod a+x /usr/local/bin/youtube-dl`
 
-**Note: the link above is current at the date I committed this. It will almost certainly be updated when you read it, so don't copy/paste it from this page without checking to get the right one~**
+**Note: the link above is current at the date I committed this. It will almost certainly be updated when you read it, so don't copy/paste it from this page without checking to get the right one**
 
 ###Install ffmpeg 
 ffmpeg is a framework to convert between media types. You can learn more at http://www.ffmpeg.org/about.html. 
